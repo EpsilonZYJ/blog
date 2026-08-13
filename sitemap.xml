@@ -4,7 +4,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/manifest.json</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/index.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/google7e7b55ce6b603fc5.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/categories/index.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/about/index.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,16 +49,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/rpi-k8s.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/posts/e4aef2ca.html</loc>
-    
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,25 +58,16 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/e110b7d9.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://epsilonzyj.github.io/blog/posts/page-rank.html</loc>
+    <loc>https://epsilonzyj.github.io/blog/posts/e4aef2ca.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/posts/python-env.html</loc>
-    
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +76,25 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/4a17b156.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/posts/page-rank.html</loc>
+    
+    <lastmod>2026-08-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/posts/python-env.html</loc>
+    
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,16 +103,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/graph-transformer.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/posts/2286d822.html</loc>
-    
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,16 +112,16 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/2dd1331a.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://epsilonzyj.github.io/blog/posts/expo-ios-cicd.html</loc>
+    <loc>https://epsilonzyj.github.io/blog/posts/2286d822.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -139,7 +130,16 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/90649c8.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/posts/expo-ios-cicd.html</loc>
+    
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -148,7 +148,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/3539d4b8.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -157,16 +157,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/Vcr-Graphormer.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/posts/3374f76a.html</loc>
-    
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -175,7 +166,16 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/761d64af.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/posts/3374f76a.html</loc>
+    
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -184,7 +184,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/SPSE.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -193,7 +193,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/Primphormer.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -202,34 +202,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/NTFormer.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/posts/c723aac6.html</loc>
-    
-    <lastmod>2026-06-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/posts/641ba8fa.html</loc>
-    
-    <lastmod>2026-06-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/posts/67ad26dd.html</loc>
-    
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -238,7 +211,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/NAGphormer.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -247,16 +220,34 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/f7539049.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://epsilonzyj.github.io/blog/posts/4a93988c.html</loc>
+    <loc>https://epsilonzyj.github.io/blog/posts/c723aac6.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/posts/641ba8fa.html</loc>
+    
+    <lastmod>2026-08-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/posts/67ad26dd.html</loc>
+    
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -265,7 +256,16 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/ebcd0e10.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/posts/4a93988c.html</loc>
+    
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -274,7 +274,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/63fed347.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -283,7 +283,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/HDSE.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -292,7 +292,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/c6b8d3b6.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -301,7 +301,7 @@
   <url>
     <loc>https://epsilonzyj.github.io/blog/posts/DUALFormer.html</loc>
     
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -310,7 +310,7 @@
 
   <url>
     <loc>https://epsilonzyj.github.io/blog</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -318,168 +318,168 @@
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/AI/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Graph-ML/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Graph-Transformer/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Linear-Transformer/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/GNN/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/GNN-With-Attention/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Tokenizing/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/HUST/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Graph/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/ICS/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/C-C/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Assembly/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Model-Architecture/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Research/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Tools/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/tags/iOS-dev/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Dynamic-Graphs/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/tags/iOS-dev/</loc>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Python/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Env/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Web-Dev/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Kubernetes/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/tags/WSL/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Linux/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/tags/WSL/</loc>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/tags/Java/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -488,147 +488,147 @@
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/categories/AI/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/categories/Tools/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/categories/AI/Graph-ML/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/categories/HUST/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/categories/Course/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/categories/AI/Graph-ML/Graph-Transformer/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/categories/AI/Graph-ML/Graph/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/categories/AI/Graph-ML/GNN/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://epsilonzyj.github.io/blog/categories/iOS-dev/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/categories/%E6%9C%AC%E7%AB%99%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <loc>https://epsilonzyj.github.io/blog/categories/AI/Graph-ML/Graph/</loc>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/categories/AI/Graph-ML/Dynamic-Graphs/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/categories/iOS-dev/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/categories/%E6%9C%AC%E7%AB%99%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/categories/Env/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/categories/Web-Dev/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/categories/Course/ICS/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://epsilonzyj.github.io/blog/categories/AI/Graph-ML/Graph-Transformer/Linear-Transformer/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/categories/AI/Graph-ML/Graph-Transformer/Model-Architecture/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/categories/AI/Graph-ML/Graph-Transformer/Tokenizing/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/categories/Env/Programming-Language/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/categories/Web-Dev/Cloud/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://epsilonzyj.github.io/blog/categories/Env/WSL/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <loc>https://epsilonzyj.github.io/blog/categories/Web-Dev/</loc>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://epsilonzyj.github.io/blog/categories/Linux/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/categories/AI/Graph-ML/Graph-Transformer/Tokenizing/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/categories/AI/Graph-ML/Graph-Transformer/Linear-Transformer/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/categories/AI/Graph-ML/Graph-Transformer/Model-Architecture/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/categories/Env/Programming-Language/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/categories/Web-Dev/Cloud/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://epsilonzyj.github.io/blog/categories/Env/WSL/</loc>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
